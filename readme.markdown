@@ -16,7 +16,5 @@ This list doesn't include the [1996 movie][mst3ktm].
 }
 ```
 
-**note:** episodes without shorts do not include the `shorts` key.
-
 [sneq]: http://www.mst3kinfo.com/?page_id=20112
 [mst3ktm]: http://www.imdb.com/title/tt0117128
