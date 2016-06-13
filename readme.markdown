@@ -12,7 +12,8 @@ This list doesn't include the [1996 movie][mst3ktm].
   "season": 6,
   "episode": 21,
   "movie": "The Beast Of Yucca Flats",
-  "shorts": ["Money Talks!", "Progress Island, U.S.A."]
+  "shorts": ["Money Talks!", "Progress Island, U.S.A."],
+  "air_date": "1995-01-21"
 }
 ```
 
